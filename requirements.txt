@@ -1,0 +1,9 @@
+customtkinter~=5.2.2
+aiohttp~=3.11.16
+uvicorn~=0.34.0
+aiohttp_socks~=0.10.1
+fastapi~=0.115.12
+stem~=1.8.2
+pycryptodome~=3.20.0
+gostcrypto~=1.2.5
+python-dotenv~=1.1.0
